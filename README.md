@@ -5,10 +5,12 @@
 <h3 align="center">I like to study ML and Deep Learning.</h3>
 
 <!--
-**Alexandr-Borsuk/Alexandr-Borsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aliaksandr-Borsuk/Aliaksandr-Borsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aliaksandr-Borsuk)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliaksandr-Borsuk)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
