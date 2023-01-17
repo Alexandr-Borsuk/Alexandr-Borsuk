@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliaksandr-Borsuk)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Aliaksandr-Borsuk) 
+
+![](https://komarev.com/ghpvc/?username=your-github-Aliaksandr-Borsuk)
+
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
